@@ -749,9 +749,9 @@
         "serialAsciiResponseStartDelimiter": "0x3A",
         "unit_id": 1,
         "commandDelay": 1,
-        "clientTimeout": 1000,
+        "clientTimeout": 50,
         "reconnectOnTimeout": true,
-        "reconnectTimeout": 2000,
+        "reconnectTimeout": 50,
         "parallelUnitIdsAllowed": true,
         "showWarnings": true,
         "showLogs": true
